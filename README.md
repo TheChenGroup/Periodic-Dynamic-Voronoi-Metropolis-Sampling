@@ -38,7 +38,9 @@ We strongly recommend using `conda` to manage the Python environment for this pr
    
 
    ```
-   pip install -r requirements.txt 
+   pip install -r requirements.txt
+   cd DeepSolid
+   pip install -e .
    ```
 
    
@@ -60,6 +62,7 @@ We strongly recommend using `conda` to manage the Python environment for this pr
 
 
 We welcome contributions of all forms! If you find any bugs or have suggestions for improvement, please feel free to submit Issues or Pull Requests.
+
 
 
 
